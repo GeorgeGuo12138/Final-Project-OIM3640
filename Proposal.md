@@ -17,7 +17,7 @@ that requires the user to input the URL of the item. We will try to implement AP
 
 # Project Schedule
 Every Week, we will meet at least once to work on the project. 
-## Week 1: Individual work and understanding the video guide
+## Week 1: Individual work and understanding the video guide.
 ## Week 2: Change our code and try to test out different inputs. 
 ## Week 3: Create Presentation and Slides while one of us fixes the code. We coordinate together. 
 ## Week 4: Final Changes/updates and presentation. We will also work on adding extra features. 
@@ -35,7 +35,7 @@ go over the project briefly if we think it’s necessary.
 The biggest risk to the success of our project is the third party extension we use to get historical price information about items 
 on Amazon. Of course Amazon won’t make this information public, so we have to rely on a third party we find on the internet. 
 The reliability and usability of the third party we choose is the biggest piece of uncertainty and will directly impact the success 
-of the project if it fails to work well
+of the project if it fails to work well.
 
 # Additional Course Content
 Historical information on a website, such as historical versions or changed contents, probably leave some trace that can be used 
